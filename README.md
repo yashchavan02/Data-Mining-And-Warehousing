@@ -1,2 +1,1 @@
-# Data-Mining-And-Warehousing
-DMW Lab Assignments 
+# Data Mining And Warehousing
